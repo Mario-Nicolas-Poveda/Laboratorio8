@@ -1,0 +1,42 @@
+h1 {
+    color: #412c25; 
+    font-size: 80px;
+}
+
+p {
+    color: #203d1d; 
+    font-size: 22px;
+}
+
+img {
+    border-radius: solid #442b3f;
+}
+
+table{
+    width: 90%; 
+    border-radius: 40px;  
+    margin-top: 50px; 
+}
+
+th, td {
+    border-radius: 5px; 
+    padding: 15px; 
+}
+
+th {
+    background-color: #7e819e;
+    color: rgb(5, 3, 3); 
+}
+
+tr {
+    background-color: #8f8989; 
+}
+
+.container {
+    max-width: 90%; 
+    margin: 10px auto;    
+    padding: 22px;        
+    background-color: #9b7474;
+    border-radius: 8px;    
+    box-shadow: 15px black; 
+}
